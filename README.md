@@ -1,1 +1,1 @@
-## An example to Rspec Testing ##
+## Example - Rspec Testing ##
